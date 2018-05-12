@@ -1,0 +1,29 @@
+_repo: Winged-Wheels-in-France_45790
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45790-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shoemaker, Michael Myers
+    alias: Shoemaker, M. M. (Michael Myers)
+    birthdate: 1853
+    deathdate: 1924
+    gutenberg_agent_id: '42549'
+    url: http://www.gutenberg.org/2009/agents/42549
+description: ''
+gutenberg_issued: '2014-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45790'
+  lccn: 06042912
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Description and travel'
+- !lcsh 'Automobile travel'
+title: Winged Wheels in France
+url: http://www.gutenberg.org/ebooks/45790
